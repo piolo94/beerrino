@@ -1,0 +1,9 @@
+- Arduino Uno R3;
+- RaspberryPi B+ with a modified version of Raspbian with jasper already installed;
+- Infineon MotorShield for Arduino;
+- ultrasound sensor HC-SR04;
+- Stepper motors (Nema17) with drivers (EasyDriver 4.4);
+- 2x Usb batteries for stepper motor and raspberry pi ;
+- 2x 9V batteries ( for arduino and brush motor);
+- An old Rc car re-adapted for carry all these things.
+
